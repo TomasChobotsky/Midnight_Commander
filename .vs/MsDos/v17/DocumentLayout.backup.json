@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos\\core\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|solutionrelative:msdos\\core\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1BD405-054F-470C-AB22-E8F09114976D}|MsDos.FileManager\\MsDos.FileManager.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos.filemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1BD405-054F-470C-AB22-E8F09114976D}|MsDos.FileManager\\MsDos.FileManager.csproj|solutionrelative:msdos.filemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1BD405-054F-470C-AB22-E8F09114976D}|MsDos.FileManager\\MsDos.FileManager.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos.filemanager\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1BD405-054F-470C-AB22-E8F09114976D}|MsDos.FileManager\\MsDos.FileManager.csproj|solutionrelative:msdos.filemanager\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos\\components\\layout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|solutionrelative:msdos\\components\\layout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos\\components\\tablecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|solutionrelative:msdos\\components\\tablecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos\\components\\textboxcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|solutionrelative:msdos\\components\\textboxcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos\\core\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|solutionrelative:msdos\\core\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos\\contracts\\iinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|solutionrelative:msdos\\contracts\\iinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos\\contracts\\iwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|solutionrelative:msdos\\contracts\\iwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos\\data\\pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|solutionrelative:msdos\\data\\pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos\\data\\tablecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|solutionrelative:msdos\\data\\tablecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos\\data\\windowresizedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|solutionrelative:msdos\\data\\windowresizedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos\\style\\border.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|solutionrelative:msdos\\style\\border.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos\\style\\borderstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|solutionrelative:msdos\\style\\borderstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|solutionrelative:msdos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\MsDos.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\MsDos.csproj|solutionrelative:msdos\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos\\components\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|solutionrelative:msdos\\components\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos\\components\\componentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|solutionrelative:msdos\\components\\componentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos\\components\\dialogcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C524AA1-717E-408B-B39F-43F05075F815}|MsDos\\Commander.csproj|solutionrelative:msdos\\components\\dialogcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1BD405-054F-470C-AB22-E8F09114976D}|MsDos.FileManager\\Commander.FileManager.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos.filemanager\\dirfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1BD405-054F-470C-AB22-E8F09114976D}|MsDos.FileManager\\Commander.FileManager.csproj|solutionrelative:msdos.filemanager\\dirfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1BD405-054F-470C-AB22-E8F09114976D}|MsDos.FileManager\\Commander.FileManager.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\msdos.filemanager\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1BD405-054F-470C-AB22-E8F09114976D}|MsDos.FileManager\\Commander.FileManager.csproj|solutionrelative:msdos.filemanager\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WindowResizedEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Data\\WindowResizedEventArgs.cs",
+              "RelativeDocumentMoniker": "MsDos\\Data\\WindowResizedEventArgs.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Data\\WindowResizedEventArgs.cs",
+              "RelativeToolTip": "MsDos\\Data\\WindowResizedEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:12:38.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TableContent.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Data\\TableContent.cs",
+              "RelativeDocumentMoniker": "MsDos\\Data\\TableContent.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Data\\TableContent.cs",
+              "RelativeToolTip": "MsDos\\Data\\TableContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:12:44.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pixel.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Data\\Pixel.cs",
+              "RelativeDocumentMoniker": "MsDos\\Data\\Pixel.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Data\\Pixel.cs",
+              "RelativeToolTip": "MsDos\\Data\\Pixel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:12:49.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Core\\Window.cs",
+              "RelativeDocumentMoniker": "MsDos\\Core\\Window.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Core\\Window.cs",
+              "RelativeToolTip": "MsDos\\Core\\Window.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAD4vyYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:12:58.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Core\\InputHandler.cs",
+              "RelativeDocumentMoniker": "MsDos\\Core\\InputHandler.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Core\\InputHandler.cs",
+              "RelativeToolTip": "MsDos\\Core\\InputHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:13:10.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IWindow.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Contracts\\IWindow.cs",
+              "RelativeDocumentMoniker": "MsDos\\Contracts\\IWindow.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Contracts\\IWindow.cs",
+              "RelativeToolTip": "MsDos\\Contracts\\IWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:13:14.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IInputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Contracts\\IInputHandler.cs",
+              "RelativeDocumentMoniker": "MsDos\\Contracts\\IInputHandler.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Contracts\\IInputHandler.cs",
+              "RelativeToolTip": "MsDos\\Contracts\\IInputHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:13:19.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TextBoxComponent.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Components\\TextBoxComponent.cs",
+              "RelativeDocumentMoniker": "MsDos\\Components\\TextBoxComponent.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Components\\TextBoxComponent.cs",
+              "RelativeToolTip": "MsDos\\Components\\TextBoxComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:13:51.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableComponent.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Components\\TableComponent.cs",
+              "RelativeDocumentMoniker": "MsDos\\Components\\TableComponent.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Components\\TableComponent.cs",
+              "RelativeToolTip": "MsDos\\Components\\TableComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:13:55.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Layout.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Components\\Layout.cs",
+              "RelativeDocumentMoniker": "MsDos\\Components\\Layout.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Components\\Layout.cs",
+              "RelativeToolTip": "MsDos\\Components\\Layout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:14:18.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos.FileManager\\MainView.cs",
+              "RelativeDocumentMoniker": "MsDos.FileManager\\MainView.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos.FileManager\\MainView.cs",
+              "RelativeToolTip": "MsDos.FileManager\\MainView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:50:49.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos.FileManager\\Program.cs",
+              "RelativeDocumentMoniker": "MsDos.FileManager\\Program.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos.FileManager\\Program.cs",
+              "RelativeToolTip": "MsDos.FileManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:51:08.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Border.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Style\\Border.cs",
+              "RelativeDocumentMoniker": "MsDos\\Style\\Border.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Style\\Border.cs",
+              "RelativeToolTip": "MsDos\\Style\\Border.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:56:26.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BorderStyle.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Style\\BorderStyle.cs",
+              "RelativeDocumentMoniker": "MsDos\\Style\\BorderStyle.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Style\\BorderStyle.cs",
+              "RelativeToolTip": "MsDos\\Style\\BorderStyle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:56:23.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Program.cs",
+              "RelativeDocumentMoniker": "MsDos\\Program.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Program.cs",
+              "RelativeToolTip": "MsDos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:56:20.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "View.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\View.cs",
+              "RelativeDocumentMoniker": "MsDos\\View.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\View.cs",
+              "RelativeToolTip": "MsDos\\View.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:48:00.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Component.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Components\\Component.cs",
+              "RelativeDocumentMoniker": "MsDos\\Components\\Component.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Components\\Component.cs",
+              "RelativeToolTip": "MsDos\\Components\\Component.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:14:33.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ComponentControl.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Components\\ComponentControl.cs",
+              "RelativeDocumentMoniker": "MsDos\\Components\\ComponentControl.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Components\\ComponentControl.cs",
+              "RelativeToolTip": "MsDos\\Components\\ComponentControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:14:30.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DialogComponent.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Components\\DialogComponent.cs",
+              "RelativeDocumentMoniker": "MsDos\\Components\\DialogComponent.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos\\Components\\DialogComponent.cs",
+              "RelativeToolTip": "MsDos\\Components\\DialogComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:14:25.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DirFile.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos.FileManager\\DirFile.cs",
+              "RelativeDocumentMoniker": "MsDos.FileManager\\DirFile.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos.FileManager\\DirFile.cs",
+              "RelativeToolTip": "MsDos.FileManager\\DirFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:56:01.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos.FileManager\\FileManager.cs",
+              "RelativeDocumentMoniker": "MsDos.FileManager\\FileManager.cs",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\MsDos.FileManager\\FileManager.cs",
+              "RelativeToolTip": "MsDos.FileManager\\FileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:55:59.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

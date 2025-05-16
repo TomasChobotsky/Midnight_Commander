@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3CEABE-064E-75B2-108D-83702B0DC845}|Commander.FileManager\\Commander.FileManager.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\commander.filemanager\\commander.filemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D3CEABE-064E-75B2-108D-83702B0DC845}|Commander.FileManager\\Commander.FileManager.csproj|solutionrelative:commander.filemanager\\commander.filemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9019872-64D2-6129-77AF-8712F54FCCD9}|Commander.TextEditor\\Commander.TextEditor.csproj|c:\\users\\tomaschobotsky\\desktop\\midnight_commander\\commander.texteditor\\commander.texteditor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9019872-64D2-6129-77AF-8712F54FCCD9}|Commander.TextEditor\\Commander.TextEditor.csproj|solutionrelative:commander.texteditor\\commander.texteditor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Commander.FileManager",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\Commander.FileManager\\Commander.FileManager.csproj",
+              "RelativeDocumentMoniker": "Commander.FileManager\\Commander.FileManager.csproj",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\Commander.FileManager\\Commander.FileManager.csproj",
+              "RelativeToolTip": "Commander.FileManager\\Commander.FileManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T13:19:17.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Commander.TextEditor",
+              "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\Commander.TextEditor\\Commander.TextEditor.csproj",
+              "RelativeDocumentMoniker": "Commander.TextEditor\\Commander.TextEditor.csproj",
+              "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\Commander.TextEditor\\Commander.TextEditor.csproj",
+              "RelativeToolTip": "Commander.TextEditor\\Commander.TextEditor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T13:19:01.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
