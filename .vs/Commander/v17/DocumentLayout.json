@@ -31,7 +31,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Commander.FileManager",
+              "Title": "Commander.FileManager.csproj",
               "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\Commander.FileManager\\Commander.FileManager.csproj",
               "RelativeDocumentMoniker": "Commander.FileManager\\Commander.FileManager.csproj",
               "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\Commander.FileManager\\Commander.FileManager.csproj",
@@ -44,7 +44,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Commander.TextEditor",
+              "Title": "Commander.TextEditor.csproj",
               "DocumentMoniker": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\Commander.TextEditor\\Commander.TextEditor.csproj",
               "RelativeDocumentMoniker": "Commander.TextEditor\\Commander.TextEditor.csproj",
               "ToolTip": "C:\\Users\\TomasChobotsky\\Desktop\\Midnight_Commander\\Commander.TextEditor\\Commander.TextEditor.csproj",
